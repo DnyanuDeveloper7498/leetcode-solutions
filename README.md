@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0197-rising-temperature) |
+| [0627-swap-sex-of-employees](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0627-swap-sex-of-employees) |
 ## Array
 |  |
 | ------- |

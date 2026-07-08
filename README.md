@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0197-rising-temperature) |
 | [0627-swap-sex-of-employees](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Array
 |  |
 | ------- |

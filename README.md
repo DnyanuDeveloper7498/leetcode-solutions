@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |

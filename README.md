@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

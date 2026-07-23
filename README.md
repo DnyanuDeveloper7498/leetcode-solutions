@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
 |  |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

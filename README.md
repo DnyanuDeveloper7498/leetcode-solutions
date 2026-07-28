@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
 ## Stack
 |  |
 | ------- |

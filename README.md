@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |

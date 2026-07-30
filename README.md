@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

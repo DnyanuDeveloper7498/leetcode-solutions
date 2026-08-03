@@ -10,12 +10,13 @@ class Solution {
 
      int left=0;
 
-     for(int i=0;i<nums.length; left+=nums[i++])
+     for(int i=0;i<nums.length; i++)
      {
-        if((left*2)==totalSum-nums[i])
+        if(left==totalSum-left-nums[i])
         {
             return i;
         }
+        left+=nums[i];
      }
       return -1;
     }

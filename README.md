@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |
+| [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
 ## Two Pointers
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |

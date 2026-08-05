@@ -1,20 +1,27 @@
 class Solution {
     public int[] transformArray(int[] nums) {
-        int[] ans = new int[nums.length];
-        int index = 0;
-
         
-        for (int num : nums) {
-            if (num % 2 == 0) {
-                ans[index++] = 0;
-            }
-        }
+    int start = 0;
+    int end = nums.length - 1;
 
-        // Fill remaining positions as 1
-        while (index < nums.length) {
-            ans[index++] = 1;
+    while(start <= end)
+    {
+        if(nums[start] % 2 == 0)
+        {
+            nums[start] = 0;
+            start++;
         }
+        else
+        {
+            nums[start] = 1;
+            
+            int temp = nums[end];
+            nums[end] = nums[start];
+            nums[start] = temp;
+            end--;
+        }
+    }
 
-        return ans;
+    return nums;
     }
 }

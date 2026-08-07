@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 | [3945-digit-frequency-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |

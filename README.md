@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0905-sort-array-by-parity) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

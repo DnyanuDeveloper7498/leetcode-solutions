@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |

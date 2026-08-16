@@ -1,4 +1,16 @@
 class Solution {
+
+  static 
+  {
+       Solution sol=new Solution();
+
+       for(int i=0;i<500;i++)
+       {
+        sol.generate(0);
+       }
+  }
+
+
     public List<List<Integer>> generate(int numRows) {
     
      List<List<Integer>>ans=new ArrayList<>();

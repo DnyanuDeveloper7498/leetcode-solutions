@@ -1,7 +1,7 @@
 class Solution {
+    
     public List<Integer> findMissingElements(int[] nums) {
-        
-
+    
          List<Integer> list =new ArrayList<>();
 
          int max=Integer.MIN_VALUE;
@@ -13,16 +13,16 @@ class Solution {
             if(num>max) max=num;
          }
 
-         boolean isPresent[]=new boolean [max+1];
+         int isPresent[]=new int [max+1];
 
          for(int num:nums)
          {
-            isPresent[num]=true;
+            isPresent[num]++;
          }
 
          for(int i=min;i<=max;i++)
          {
-             if(!isPresent[i])
+             if(isPresent[i]==0)
              {
                 list.add(i);
              }

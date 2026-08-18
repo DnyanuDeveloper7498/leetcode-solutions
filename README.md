@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1518-water-bottles) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 ## Counting
 |  |

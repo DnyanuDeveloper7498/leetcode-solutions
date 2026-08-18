@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |

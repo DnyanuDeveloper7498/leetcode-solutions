@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3945-digit-frequency-score) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1108-defanging-an-ip-address) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 ## Trie
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 ## Quicksort
 |  |

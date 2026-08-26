@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |

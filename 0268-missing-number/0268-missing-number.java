@@ -1,23 +1,35 @@
 class Solution {
 
-     static {
-        Solution sol= new Solution();
-         
-         for(int i=0;i<500;i++)
-         {
-             sol.missingNumber(new int []{0});
-         }
-     }
-
-
     public int missingNumber(int[] nums) {
    
-      int ans=nums.length;
+      int size= max(nums)+2;
+      int freq[]=new int [size];
 
-      for(int i=0;i<nums.length;i++)
+      for(int num:nums)
       {
-        ans=ans^i^nums[i];
+        freq[num]++;
       }
-      return ans;  
+
+      for(int i=0;i<size;i++)
+      {
+        if(freq[i]==0)
+         return i;
+      }
+return -1;
+
+    }
+
+
+
+    public static int max(int arr[])
+    {
+        int max=Integer.MIN_VALUE;
+
+       for(int i=0;i<arr.length;i++)
+       {
+          if(arr[i]>max)
+           max=arr[i];
+       }
+       return max;
     }
 }

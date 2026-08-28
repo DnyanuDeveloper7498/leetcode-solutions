@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |

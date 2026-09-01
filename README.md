@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1518-water-bottles) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |

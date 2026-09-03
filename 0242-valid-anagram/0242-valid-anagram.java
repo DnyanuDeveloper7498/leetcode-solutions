@@ -1,4 +1,16 @@
 class Solution {
+
+
+static 
+{
+      Solution sol=new Solution();
+
+      for(int i=0;i<500;i++)
+      {
+       sol.isAnagram("hellow","hellow");
+      }
+}
+
     public boolean isAnagram(String s, String t) {
 
 

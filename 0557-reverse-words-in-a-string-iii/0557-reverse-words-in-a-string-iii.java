@@ -1,4 +1,17 @@
 class Solution {
+
+  
+   static 
+   {
+      Solution sol=new Solution();
+
+      for(int i=0;i<500;i++)
+      {
+         sol.reverseWords("hellow");
+      }
+   }
+
+
     public String reverseWords(String s) {
 
         char ch[]=s.toCharArray();

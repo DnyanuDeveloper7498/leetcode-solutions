@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1108-defanging-an-ip-address) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2103-rings-and-rods) |

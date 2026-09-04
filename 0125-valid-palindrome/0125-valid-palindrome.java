@@ -1,41 +1,57 @@
 class Solution {
 
     public boolean isPalindrome(String s) {
-      int start=0;
-      int end=s.length()-1;
 
-       while(start<end)
-       {
-           while(start<end && !isLetterOrDigit(s.charAt(start)))
-           {
-            start++;
-           }
+        char ch[]=s.toCharArray();
+
+        int left=0;
+        int right=ch.length-1;
+
+        while(left<right)
+        {
+
+            while(left<right && !((ch[left]>='a' && ch[left]<='z')||
+                                  (ch[left]>='A' && ch[left]<='Z')||
+                                  (ch[left]>='0' && ch[left]<='9')))
+                                  {
+                                    left++;
+                                  }
+
+             while(left<right && !((ch[right]>='a' && ch[right]<='z')||
+                                  (ch[right]>='A' && ch[right]<='Z')||
+                                  (ch[right]>='0' && ch[right]<='9')))
+                                  {
+                                    right--;
+                                  }
+
+            char leftChar=ch[left];
+            char rightChar=ch[right];
+
+            if(leftChar>='A' && leftChar<='Z')
+            {
+                leftChar=(char)(leftChar+32);
+            }
+
+             if(rightChar>='A' && rightChar<='Z')
+            {
+                rightChar=(char)(rightChar+32);
+            }
+
         
-           while(start<end && !isLetterOrDigit(s.charAt(end)))
-           {
-            end--;
-           }
+           if(leftChar!=rightChar)
+            {
+                return false;
+            }
 
+            left++;
+            right--;
 
-          if( Character.toLowerCase(s.charAt(start))!=Character.toLowerCase(s.charAt(end)))
-          return false;
-
-            start++;
-            end--;
-       }
-      
-       return true; 
-    }
-
-      public static boolean isLetterOrDigit(char s)
-    {
-          char ch=Character.toLowerCase(s);
-       
-          if((ch>='a'&&ch<='z')||(ch>='0'&&ch<='9'))
-          {
-            return true;
-          }
-
-          return false;
+        }
+      return true;
+ 
     }
 }
+
+
+
+

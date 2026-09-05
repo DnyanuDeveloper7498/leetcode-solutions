@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3856-trim-trailing-vowels) |
 ## Trie
 |  |
 | ------- |

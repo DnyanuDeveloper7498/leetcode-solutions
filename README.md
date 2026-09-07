@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1518-water-bottles) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |

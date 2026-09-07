@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

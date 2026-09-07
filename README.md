@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3813-vowel-consonant-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory

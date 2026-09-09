@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2278-percentage-of-letter-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3798-largest-even-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3798-largest-even-number) |

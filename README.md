@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2278-percentage-of-letter-in-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
+| [2785-sort-vowels-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2785-sort-vowels-in-a-string) |
 | [3798-largest-even-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2785-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation

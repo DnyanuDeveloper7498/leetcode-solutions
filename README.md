@@ -183,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
 | [2000-reverse-prefix-of-word](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2000-reverse-prefix-of-word) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2278-percentage-of-letter-in-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2785-sort-vowels-in-a-string) |

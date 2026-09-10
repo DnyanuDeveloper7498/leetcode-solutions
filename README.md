@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
+| [2000-reverse-prefix-of-word](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2264-largest-3-same-digit-number-in-string) |

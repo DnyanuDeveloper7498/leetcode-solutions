@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0680-valid-palindrome-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Math
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2785-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
 ## Newton's Method
 |  |
 | ------- |

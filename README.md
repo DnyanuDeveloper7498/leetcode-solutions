@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0912-sort-an-array) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1122-relative-sort-array) |

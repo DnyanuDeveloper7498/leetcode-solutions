@@ -1,7 +1,6 @@
 class Solution {
 
-
-   static 
+    static 
     {
         Solution sol=new Solution();
 
@@ -12,71 +11,61 @@ class Solution {
     }
 
 
+
     public int arrayPairSum(int[] nums) {
 
-    int max=max(nums);
-    int min=min(nums);
+        int min = min(nums);
+        int max = max(nums);
 
+     
+        int freq[] = new int[max - min + 1];
 
-    int freq[]=new int [max-min+1];
+        for (int num : nums) {
+            freq[num - min]++;
+        }
 
-      for(int num:nums)
-      {
-         freq[num-min]++;
-      }
-      
-      int index=0;
-      int sum=0;
+        int sum = 0;
+        int index = 0;
 
-      for(int i=0;i<freq.length;i++)
-      {
-         while(freq[i]>0)
-         {
-            int value=i+min;
+        for (int i = 0; i < freq.length; i++) {
+            while (freq[i] > 0) {
 
-            if(index%2==0)
-            {
-                sum+=value;
-            }
+                int value = i + min;
 
-            index++;
-            freq[i]--;
-         }
-      }
+              
+                if (index % 2 == 0) {
+                    sum += value;
+                }
 
-    return sum;        
-    }
-
-
-    public static int max(int arr[])
-    {
-        int max=Integer.MIN_VALUE;
-         
-        for(int num:arr)
-        {
-            if(num>max)
-            {
-                max=num;
+                index++;
+                freq[i]--;
             }
         }
 
-
-        return max;
+        return sum;
     }
 
-     public static int min(int arr[])
-    {
-        int min=Integer.MAX_VALUE;
-         
-        for(int num:arr)
-        {
-            if(num<min)
-            {
-                min=num;
+    public static int min(int arr[]) {
+        int min = Integer.MAX_VALUE;
+
+        for (int num : arr) {
+            if (num < min) {
+                min = num;
             }
         }
-
 
         return min;
+    }
+
+    public static int max(int arr[]) {
+        int max = Integer.MIN_VALUE;
+
+        for (int num : arr) {
+            if (num > max) {
+                max = num;
+            }
+        }
+
+        return max;
     }
 }

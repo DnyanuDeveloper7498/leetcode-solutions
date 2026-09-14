@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |

@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0680-valid-palindrome-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2321-maximum-score-of-spliced-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2321-maximum-score-of-spliced-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0434-number-of-segments-in-a-string) |

@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0504-base-7) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0415-add-strings) |
 | [1518-water-bottles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |

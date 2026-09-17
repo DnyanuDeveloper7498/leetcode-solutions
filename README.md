@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3866-first-unique-even-element) |
 ## Quicksort
 |  |

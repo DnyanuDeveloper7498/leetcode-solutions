@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
+| [3803-count-residue-prefixes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3866-first-unique-even-element) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2785-sort-vowels-in-a-string) |
 | [3798-largest-even-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3798-largest-even-number) |
+| [3803-count-residue-prefixes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3856-trim-trailing-vowels) |

@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3842-toggle-light-bulbs) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3866-first-unique-even-element) |
 ## Quicksort

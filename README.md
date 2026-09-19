@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1470-shuffle-the-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

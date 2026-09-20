@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0414-third-maximum-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0367-valid-perfect-square) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
@@ -595,4 +599,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

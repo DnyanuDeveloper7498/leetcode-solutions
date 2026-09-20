@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0414-third-maximum-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0367-valid-perfect-square) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -607,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

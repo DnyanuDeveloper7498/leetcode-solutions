@@ -1,15 +1,13 @@
 class Solution {
-    public int findDuplicate(int[] nums) 
-    {
-        int freq[]=new int[nums.length];
+    public int findDuplicate(int[] nums) {
+        int[] freq = new int[nums.length];
 
-        for(int num:nums)
-        {
-            if(++freq[num]>1)
-            {
+        for (int num : nums) {
+            if (++freq[num] > 1) {
                 return num;
             }
         }
-        return-1;
+
+        return -1;
     }
 }

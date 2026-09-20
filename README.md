@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0275-h-index-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0278-first-bad-version) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |

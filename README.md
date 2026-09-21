@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2540-minimum-common-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2540-minimum-common-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |

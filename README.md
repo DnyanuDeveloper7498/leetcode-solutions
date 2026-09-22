@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2235-add-two-integers) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0858-mirror-reflection) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2427-number-of-common-factors) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -530,12 +533,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0858-mirror-reflection) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Counting Sort

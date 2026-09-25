@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1179-reformat-department-table) |
+| [1661-average-time-of-process-per-machine](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1729-find-followers-count) |
 ## Array

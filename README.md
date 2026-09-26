@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2540-minimum-common-value) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2716-minimize-string-length) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |

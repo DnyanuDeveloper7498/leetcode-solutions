@@ -1,8 +1,7 @@
 class Solution {
-    public int mostFrequent(int[] nums, int key) {
-        
-
-        int freq[]=new int [1001];
+    public int mostFrequent(int[] nums, int key) 
+    {
+      int freq[]=new int [1001];
 
       for(int i=0;i<nums.length-1;i++)
       {

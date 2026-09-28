@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |

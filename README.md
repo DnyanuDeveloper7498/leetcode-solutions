@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1833-maximum-ice-cream-bars) |
+| [1854-maximum-population-year](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1854-maximum-population-year](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1854-maximum-population-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |

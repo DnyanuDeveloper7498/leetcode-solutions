@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0645-set-mismatch) |

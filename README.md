@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |

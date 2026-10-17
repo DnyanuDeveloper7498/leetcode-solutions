@@ -1,26 +1,26 @@
 class MyHashSet {
 
 
-    private int [] set;
+    private boolean [] set;
 
     public MyHashSet() 
     {
-        set=new int [31251];   
+        set=new boolean [1000001];   
     }
     
     public void add(int key){
 
-        set[key/32]|=(1<<(key%32));
+        set[key]=true;
         
     }
     
     public void remove(int key) {
-        set[key/32]&=~(1<<(key%32));
+        set[key]=false;
     }
     
     public boolean contains(int key) {
-        return (set[key/32] & (1<<(key%32)))!=0;
-    }
+        return set[key];
+}
 }
 
 /**

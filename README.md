@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
 | [1122-relative-sort-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
 ## Quickselect
 |  |
 | ------- |
@@ -729,4 +733,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

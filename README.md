@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0858-mirror-reflection](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0858-mirror-reflection) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1518-water-bottles) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Pigeonhole Principle
 |  |
 | ------- |

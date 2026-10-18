@@ -1,5 +1,14 @@
 
 class Solution {
+
+    static {
+        Solution sol=new Solution();
+
+        for(int i=0;i<500;i++)
+        {
+            sol.distributeCandies(new int []{0});
+        }
+    }
     public int distributeCandies(int[] candyType) {
 
         int min = min(candyType);

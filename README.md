@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0706-design-hashmap) |
@@ -276,12 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |

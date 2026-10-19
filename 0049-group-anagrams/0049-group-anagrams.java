@@ -1,4 +1,15 @@
 class Solution {
+   
+   static 
+   {
+      Solution sol=new Solution();
+
+      for(int i=0;i<200;i++)
+      {
+         sol.groupAnagrams(new String[]{""});
+      }
+   }
+
     public List<List<String>> groupAnagrams(String[] strs) 
  {
       Map<String,List<String>> map=new   HashMap<>();

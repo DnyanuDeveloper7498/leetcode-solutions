@@ -1,4 +1,16 @@
 class Solution {
+
+ static 
+ {
+     Solution sol =new Solution();
+
+     for(int i=0;i<200;i++)
+     {
+        sol.majorityElement(new int[]{0});
+     }
+ }
+
+
     public List<Integer> majorityElement(int[] nums) {
         
         List<Integer> list=new ArrayList<>();

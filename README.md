@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1839-longest-substring-of-all-vowels-in-order) |

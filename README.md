@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0918-maximum-sum-circular-subarray) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0342-power-of-four) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1729-find-followers-count) |
+| [1965-employees-with-missing-information](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0511-game-play-analysis-i) |
+| [0585-investments-in-2016](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0585-investments-in-2016) |
 | [0627-swap-sex-of-employees](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1068-product-sales-analysis-i) |

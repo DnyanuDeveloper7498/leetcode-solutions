@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0371-sum-of-two-integers) |
+| [0398-random-pick-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0441-arranging-coins) |
@@ -779,4 +781,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0229-majority-element-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->

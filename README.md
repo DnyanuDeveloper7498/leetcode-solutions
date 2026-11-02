@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1732-find-the-highest-altitude) |

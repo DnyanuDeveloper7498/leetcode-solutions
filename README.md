@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3866-first-unique-even-element) |
+| [3903-smallest-stable-index-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3903-smallest-stable-index-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |

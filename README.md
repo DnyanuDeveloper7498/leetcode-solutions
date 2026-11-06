@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |

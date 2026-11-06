@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3028-ant-on-the-boundary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3028-ant-on-the-boundary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3028-ant-on-the-boundary) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3813-vowel-consonant-score](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3842-toggle-light-bulbs) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3028-ant-on-the-boundary) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |

@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3028-ant-on-the-boundary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3731-find-missing-elements) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |

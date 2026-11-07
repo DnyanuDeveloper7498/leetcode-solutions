@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0506-relative-ranks](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0575-distribute-candies) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0441-arranging-coins) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0441-arranging-coins) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0858-mirror-reflection](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0858-mirror-reflection) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0304-range-sum-query-2d-immutable) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0724-find-pivot-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -817,8 +821,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/DnyanuDeveloper7498/SQL-Leed-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
